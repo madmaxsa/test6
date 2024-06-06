@@ -1,0 +1,6 @@
+cache/*
+cache1/*
+!cache1/2.txt
+
+
+
